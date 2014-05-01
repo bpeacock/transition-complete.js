@@ -4,7 +4,7 @@ New Library
 Usage
 -----
 
-Installation `npm install`
+Installation `npm install transition-complete`
 
 Development
 -----------
