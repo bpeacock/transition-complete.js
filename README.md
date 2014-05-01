@@ -1,10 +1,18 @@
-New Library
-===========
+Transition Complete
+===================
+
+Fires a callback when the current CSS transition finishes.
 
 Usage
 -----
 
-Installation `npm install`
+Installation `npm install transition-complete`
+
+```javascript
+transitionComplete(function() {
+	//Something
+});
+```
 
 Development
 -----------

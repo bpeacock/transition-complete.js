@@ -6,7 +6,7 @@
   "main": "transition-complete.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/bpeacock/transition-complete.js"
   },
   "dependencies": {
     "unopinionate": "0.0.4"
